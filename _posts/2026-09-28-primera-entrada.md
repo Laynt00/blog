@@ -2,7 +2,7 @@
 layout: post
 title: "Creación Del Blog y Configuración de Cloudflare"
 date: 2026-09-28
-tags: [cloudflare, jekill, github, blogs]
+tags: [cloudflare, jekyll, github, blogs]
 ---
 
 Si estás leyendo esto significa que todo funciona correctamente.
