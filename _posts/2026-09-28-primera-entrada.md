@@ -66,7 +66,7 @@ Y que el encabezado de cada artículo debe incluir los siguientes metadatos para
 
 Si queremos añadir imágenes, crearemos una carpeta en la raíz del repositorio llamada `assets` y una subcarpeta llamada `img`, donde subiremos las imágenes que incrustaremos con Markdown de la siguiente forma:
 
-![Formato de imágenes en Jekyll](/assets/img/1-nombre-de-la-imagen.png)
+![Formato de imágenes en Jekyll](/assets/img/1-imagenes.png)
 
 Finalmente necesitamos eliminar el index.html y crear un index.md, en este caso mostrando las ultimas entradas
 ![index en Jekyll](/assets/img/1-index.png)
