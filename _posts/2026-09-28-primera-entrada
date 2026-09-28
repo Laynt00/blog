@@ -68,6 +68,9 @@ Si queremos añadir imágenes, crearemos una carpeta en la raíz del repositorio
 
 ![Formato de imágenes en Jekyll](/assets/img/1-nombre-de-la-imagen.png)
 
+Finalmente necesitamos eliminar el index.html y crear un index.md, en este caso mostrando las ultimas entradas
+![index en Jekyll](/assets/img/1-index.png)
+
 ---
 
 ## Dominio propio y Cloudflare
